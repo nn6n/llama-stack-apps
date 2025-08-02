@@ -4,3 +4,4 @@ setuptools
 yfinance
 gradio
 llama-stack-client>=0.1.0
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
